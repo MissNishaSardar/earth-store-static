@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+	--color-earth-light: #74a84a;
+	--color-earth-dark: #2c541d;
+}
